@@ -11,7 +11,7 @@
 
 # How does someone run it locally?
 This tool is designed to be simple and runnable on any machine with Python.
-=> Steps:
+  => Steps:
    * Clone the repository
    * Create a Python virtual environment
    * Install dependencies
