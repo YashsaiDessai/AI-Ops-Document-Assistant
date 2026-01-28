@@ -1,0 +1,12 @@
+INCIDENT REPORT: Database Latency Spike
+Date: 2023-10-27
+Severity: High
+
+Summary:
+At 14:00 UTC, the primary production database experienced a 500% increase in latency.
+The engineering team identified a run-away query from the analytics dashboard.
+
+Action Items:
+1. Rotate the database credentials by EOD.
+2. Implement query timeout limits on the analytics service.
+3. Schedule a post-mortem review with the Data Team.

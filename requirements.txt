@@ -1,0 +1,9 @@
+# Configuration & Validation
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# PDF & Text Processing
+pdfplumber>=0.10.0
+
+# AI Integration
+openai>=1.0.0
